@@ -61,7 +61,7 @@ html, body {
 }
 
 .rowing-image {
-  background-image: url("/IMAGES/goodpicture.JPG");
+  background-image: url("IMAGES/goodpicture.JPG");
   background-size: cover;
   background-position: center;
   width: 100vw;
