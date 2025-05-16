@@ -1,0 +1,20 @@
+.Container {
+    font-size: 3rem;
+    color: #da1e1e;
+    font-family: "EB Garamond", serif;
+    font-style: normal;
+    height: 100%;
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+  }
+
+.film {
+    padding: 30px;
+    font-size: 1.5rem;
+}
+.about {
+    text-align: center;
+    color:#da1e1e;
+    font-family: "EB Garamond", serif;
+}
